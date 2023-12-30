@@ -1,0 +1,9 @@
+volumes/db/data
+volumes/storage
+volumes/appsmith/data
+volumes/baserow/data
+volumes/minio/data
+.env
+test.http
+docker-compose.override.yml
+**/.idea/**
